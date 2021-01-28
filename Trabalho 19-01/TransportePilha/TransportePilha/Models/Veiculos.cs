@@ -8,7 +8,7 @@ namespace TransportePilha.Models
 {
     class Veiculos
     {
-        private List<Veiculo> veiculos;
+        private List<Veiculo> veiculos = new List<Veiculo>();
 
         public List<Veiculo> Veiculosl
         {
